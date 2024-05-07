@@ -2,6 +2,9 @@
 
 Welcome to my digital dojo! I'm a web and mobile developer, constantly juggling pixels and code to create magic. 
 
+<a href="https://stackoverflow.com/users/12843014/ctt-worker"><img src="https://stackoverflow.com/users/flair/12843014.png?theme=dark" width="208" height="58" alt="profile for CTT Worker at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for CTT Worker at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
 ## About Me 🤓
 
 - 💻 Currently masquerading as a Digital Sorcerer at Tech Wizardry Ltd.
@@ -18,7 +21,7 @@ Here's what's in my bag of tricks:
 - DevOps: Docker, Kubernetes
 - Version Control: Git
 - APIs: REST, GraphQL
-
+  
 ## What I'm Up To 🔭
 
 Currently, I'm:
