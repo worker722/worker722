@@ -32,7 +32,7 @@ Currently, I'm:
 
 ## Get in Touch 📫
 
-- [Telegram](https://join.skype.com/invite/hnKwcBxW4jRH)
+- [Telegram](https://t.me/topdev0411)
 - [Skype](https://join.skype.com/invite/hnKwcBxW4jRH)
 
 Drop me a line if you want to chat about code, exchange cat GIFs, or discuss the finer points of superhero lore (Batman is obviously the best).
