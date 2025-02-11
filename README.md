@@ -32,7 +32,8 @@ Currently, I'm:
 
 ## Get in Touch 📫
 
-- Skype: [worker722](https://join.skype.com/invite/hnKwcBxW4jRH)
+- [Telegram]([https://join.skype.com/invite/hnKwcBxW4jRH])
+- [Skype](https://join.skype.com/invite/hnKwcBxW4jRH)
 
 Drop me a line if you want to chat about code, exchange cat GIFs, or discuss the finer points of superhero lore (Batman is obviously the best).
 
