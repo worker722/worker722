@@ -47,6 +47,7 @@ Currently, I'm:
 ## Get in Touch 📫
 
 - [Telegram](https://t.me/worker722)
+- [Teams](https://teams.live.com/l/invite/FEAsr_3LMRpD4JT6QI)
 
 Drop me a line if you want to chat about code, exchange cat GIFs, or discuss the finer points of superhero lore (Batman is obviously the best).
 
